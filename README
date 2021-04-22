@@ -1,0 +1,12 @@
+PROJET GSB LAB dans le cadre du Projet Personnel Encadré du BTS SIO pour l'épreuve E4: 
+Création d'une application web de gestion de frais
+Framework: Laravel
+
+Scénario nominal:
+1. L’utilisateur demande à éditer l’état de tous les frais des visiteurs.
+2. Le système retourne un formulaire de saisie du mois concerné.
+3. L’utilisateur sélectionne le mois.
+4. Le système retourne pour ce mois la liste de tous les frais par type de frais pour chaque
+visiteur et un lien permettant d’éditer un document PDF.
+5. L’utilisateur demande à voir le document PDF.
+6. Le système lui retourne les informations au format pdf
